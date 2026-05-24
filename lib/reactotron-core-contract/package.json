@@ -68,7 +68,7 @@
     "rimraf": "5.0.5",
     "ts-jest": "^29.1.1",
     "typescript": "^4.9.5",
-    "ws": "^8.14.2"
+    "ws": "^8.20.1"
   },
   "eslintConfig": {
     "root": false,
